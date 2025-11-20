@@ -1,4 +1,4 @@
-# 🪙 ViralToken – AI-Powered Memecoin Trend Analyzer (In Progress)
+#ViralToken – AI-Powered Memecoin Trend Analyzer (In Progress)
 
 ViralToken is a Python-based analytics pipeline that tracks **emerging memecoin trends** from **verified crypto influencer tweets** in real time.  
 It combines tweet scraping, token extraction, and multi-metric analytics to detect viral coins early — all without needing the official Twitter API.
